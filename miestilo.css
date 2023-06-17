@@ -1,0 +1,110 @@
+body {
+  background-color:  #000;
+}
+
+h1 {
+  color: #000;
+  text-align: center;
+  font-family: arial, sans-serif;
+  font-size: 35px
+}
+
+p {
+  font-family: arial, sans-serif;
+  font-size: 20px;
+  color: #000;
+  
+}
+
+h2{
+  font-family: arial, sans-serif;
+  font-size: 28px;
+  color: #000;
+  text-align: center;
+	
+}
+
+
+
+.menu  {
+    width: 20%;
+	float: left;
+	margin-right: 1em;
+	padding: 1em;
+	background-color: #aceaff;
+}
+
+.caja  {
+    width: 70%;
+	float: center;
+	margin-left: 5em;
+	margin-right: 5em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: 1em;
+	
+	text-align: center;
+	color: #000
+}
+
+
+.contenido  {
+  width: 60%;
+  float: left;
+  background-color:  #baacff;
+  padding: 3em;
+  text-align: left;
+}
+
+.link   {
+	
+	color: #000;
+	
+	
+}
+
+.link:hover {
+	
+	color: #210B61;
+	
+	
+	
+}
+
+
+.imagen {
+	
+	float: center;
+	margin-left: 16em;
+	margin-right: 0em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	padding: 0em;
+	
+	
+}
+
+.imagen2 {
+	
+	float: center;
+	margin-left: 5em;
+	margin-right: 5em;
+	margin-top: 1em;
+	margin-bottom: 0em;
+	padding: 0em;
+	
+	
+}
+
+.contenido2 {
+	
+  width: 90%;
+  float: center;	
+  font-family: arial, sans-serif;
+  font-size: 20px;
+  color: #000;
+  text-align: left;
+  padding: 0em;
+  margin-left: 2em;
+}
+
